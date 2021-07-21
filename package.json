@@ -1,0 +1,25 @@
+{
+  "name": "node-touch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apikey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranay999000/node-touch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranay999000/node-touch/issues"
+  },
+  "homepage": "https://github.com/pranay999000/node-touch#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.0.1",
+    "mongoose": "^5.13.3"
+  }
+}
